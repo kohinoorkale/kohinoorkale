@@ -57,9 +57,10 @@ Engineering Student passionate about Microcontrollers and Low-Level Programming
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/stmicroelectronics.svg" alt="stm32" width="40" height="40"/>
+<a href="https://www.st.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="stm32" width="40" height="40"/>
 </a>
+
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="esp32" width="40" height="40"/>
 </a>
